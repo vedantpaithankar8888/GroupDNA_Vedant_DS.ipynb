@@ -115,3 +115,14 @@ All other logic, file parsing, and archetype structuring was implemented manuall
 2. **Install NumPy:**
    ```bash
    pip install numpy
+  ``
+  
+3. **Export your WhatsApp chat (without media) as a .txt file.**
+
+4. **Place the .txt file in the same directory as the notebook and update the file path in the code.**
+ 
+5. **Run all cells in GroupDNA_Vedant_DS.ipynb top-to-bottom.**
+ 
+6. **Check out your group's dashboard in the final cell output!**
+
+
